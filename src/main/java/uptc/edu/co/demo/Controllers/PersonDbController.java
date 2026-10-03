@@ -43,7 +43,7 @@ public class PersonDbController {
                 "data", data,
                 "maquina", maquina,
                 "contenedor", contenedor,
-                "Estado", "prueba1"
+                "Estado", "prueba1_volver"
         );
     }
 
