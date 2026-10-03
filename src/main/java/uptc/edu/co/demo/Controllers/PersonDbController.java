@@ -42,7 +42,8 @@ public class PersonDbController {
                 "count", data.size(),
                 "data", data,
                 "maquina", maquina,
-                "contenedor", contenedor
+                "contenedor", contenedor,
+                "Estado", "prueba1"
         );
     }
 
