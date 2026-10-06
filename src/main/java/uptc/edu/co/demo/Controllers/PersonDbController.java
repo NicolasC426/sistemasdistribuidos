@@ -43,7 +43,7 @@ public class PersonDbController {
                 "data", data,
                 "maquina", maquina,
                 "contenedor", contenedor,
-                "Estado", "pruebafinal2_volver"
+                "Estado", "06/10/2026"
         );
     }
 
